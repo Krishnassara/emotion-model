@@ -28,3 +28,5 @@ This project is an AI-based application that detects emotions from text using Na
 - app.py → Streamlit UI
 - predict.py → Model prediction logic
 - requirements.txt → Dependencies
+
+Model file not uploaded due to size limitations
